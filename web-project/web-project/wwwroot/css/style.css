@@ -1,0 +1,57 @@
+﻿.navbar-expand-lg .navbar-nav .nav-link{
+  padding-right: 2.5rem;
+  padding-left: 2.5rem;
+}
+.navbar {
+  padding-top: 1.5rem;
+  padding-bottom: .5rem;
+  background-color: rgb(255, 255, 255);
+}
+
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    width: 87%;
+}
+
+#contact{
+    color: black;
+    border: 2px solid black;
+    border-radius: 6px;
+    line-height: 1.2;
+    font-weight: bold;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+body {
+    background-image: url(../images/Background.png);
+}
+
+.my-8{
+  margin-top: 7rem !important;
+  margin-bottom: 3rem !important;
+}
+.my-9{
+  margin-bottom: 1rem !important;
+}
+
+.my-20{
+  margin-top: 18rem !important;
+  margin-bottom: 2rem !important;
+}
+
+#getStarted {
+    margin-top: 15% !important;
+    background-color: transparent !important;
+    color: black !important;
+    border-color: black !important;
+}
+
+.spinner-border {
+  width: 10rem !important;
+  height: 10rem !important;
+}
+
+.scrollable-menu {
+  height: auto;
+  max-height: 200px;
+  overflow-x: hidden;
+}
