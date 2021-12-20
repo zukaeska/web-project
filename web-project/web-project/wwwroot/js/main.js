@@ -7,6 +7,7 @@ $(function () {
 });
 
 function getCountriesInfo () {
+    document.getElementById("input").value = "";
     $("#spiner").removeClass("d-none");
     $("#mainCard").addClass("d-none");
     $("#countrycard").addClass("d-none");
